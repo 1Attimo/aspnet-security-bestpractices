@@ -1,2 +1,0 @@
-# aspnet-security-bestpractices
-TODO
